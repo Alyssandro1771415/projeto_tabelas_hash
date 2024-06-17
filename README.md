@@ -1,2 +1,2 @@
 # projeto_tabelas_hash
-Projeto 3 da cadeira de Estrutura de Dados, a atividade em questão foi proposta pelo Heron Aragão.
+Projeto 3 da cadeira de Estrutura de Dados, a atividade em questão foi proposta pelo professor Heron Aragão, o objetivo deste é realizar uma análise comparativa entre diferentes modelos de tabela hash e seu comportamento em duas situações de bases de dados. O prrojeto conta com a implmentação das tabelas, criação das bases de dados e geração de tabelas para comparação dos resultados, esses que por sua vez vem através de um benchmark para abstrair os resultados e evitar conflitos para independer da máquina onde os testes forem realizados
