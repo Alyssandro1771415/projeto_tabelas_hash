@@ -1,9 +1,9 @@
 Dataset,HashTable,AddressingType,InsertTime,SearchTime,Collisions,Rehashes
-100000 Unique,HashTableClosedAddressing,Closed,1094.53,3333.33,90000,0
-300000 Repeated,HashTableClosedAddressing,Closed,2189.05,4975.12,390000,0
-100000 Unique,HashTableOpenAddressingLinearProbing,Linear,646.77,796.02,16083,5
-300000 Repeated,HashTableOpenAddressingLinearProbing,Linear,3084.58,1542.29,123998,7
-100000 Unique,HashTableOpenAddressingQuadraticProbing,Quadratic,845.77,845.77,15317,5
-300000 Repeated,HashTableOpenAddressingQuadraticProbing,Quadratic,2288.56,1592.04,114258,7
-100000 Unique,HashTableOpenAddressingDoubleHashing,Double,1840.80,1044.78,15035,5
-300000 Repeated,HashTableOpenAddressingDoubleHashing,Double,3034.83,1592.04,107716,7
+100000 Unique,HashTableClosedAddressing,Closed,933.25,2146.47,90000,0
+300000 Repeated,HashTableClosedAddressing,Closed,1430.98,3235.26,390000,0
+100000 Unique,HashTableOpenAddressingLinearProbing,Linear,559.95,653.27,16032,5
+300000 Repeated,HashTableOpenAddressingLinearProbing,Linear,2208.69,777.71,124903,7
+100000 Unique,HashTableOpenAddressingQuadraticProbing,Quadratic,622.17,591.06,15207,5
+300000 Repeated,HashTableOpenAddressingQuadraticProbing,Quadratic,2177.58,839.92,114705,7
+100000 Unique,HashTableOpenAddressingDoubleHashing,Double,715.49,684.38,14689,5
+300000 Repeated,HashTableOpenAddressingDoubleHashing,Double,2581.99,1430.98,107794,7
